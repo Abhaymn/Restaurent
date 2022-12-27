@@ -1,10 +1,13 @@
 .meal {
     display: flex;
+    
     justify-content: space-between;
     margin: 1rem;
     padding-bottom: 1rem;
-    border-bottom: 1px solid #ccc;
-  }
+    border-bottom: 1px solid rgb(230, 216, 216);
+    
+}
+
   
   .meal h3 {
     margin: 0 0 0.25rem 0;
@@ -17,6 +20,7 @@
   .price {
     margin-top: 0.25rem;
     font-weight: bold;
-    color: #ad5502;
+    color: #e28a38;
     font-size: 1.25rem;
+   
   }
